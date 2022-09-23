@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + ts + vuex + vue-router
+# Vue 3 + TypeScript + Vite + ts + vuex + vue-router + axios
 
 ## 1.如何使用？
 npm i 进行下载相关依赖包
