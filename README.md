@@ -13,4 +13,4 @@ npm run build
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 
-## 基于Vite打包工具，快速，高效。无需多余配置
+## 基于Vite打包工具，快速，高效。无需多余配置  已配置反向代理
