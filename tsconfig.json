@@ -7,6 +7,12 @@
     "strict": true,
     "jsx": "preserve",
     "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },  
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
